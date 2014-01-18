@@ -1,4 +1,4 @@
-var baseurl = "http://m.reisandirvys.com";
+var baseurl = "http://m.reisandirvys.com/sites/default/files/mobile-application/";
 var nextpage = "#home";
 
 /* When this function is called, the phone has been initialized and is ready to roll */
